@@ -3,6 +3,9 @@ h1{font-family: 'Anton', sans-serif;
 h1{ color: red;}
 h3{ color: blue;}
 h2{ color: blue;}
-p{font-family: 'Lobster', cursive;
+
+ol{font-family: 'Lobster', cursive;
 }
-ol{
+p{font-family: 'Abril Fatface', cursive;
+}
+background{color: blue;}
